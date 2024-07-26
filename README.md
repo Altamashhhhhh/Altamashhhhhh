@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi 👋 Shaikh Altamash
 
+#### 👀 I'm passionate about Full-Stack web development and exploring the realms of technology! 🚀
+
+#### 🌱 Exploring the world of web development with a focus on scalable and distributed systems. I prioritize writing clean, readable, and maintainable code to tackle complex challenges effectively.
+
+#### Any Freelance Work , Do Reach me skaltamash10.99@gmail.com
 <!--
 **Altamashhhhhh/Altamashhhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
