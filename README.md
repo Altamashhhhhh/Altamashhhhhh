@@ -32,7 +32,7 @@ I'm a dedicated full stack web developer with a passion for creating dynamic and
 ### 🚀 Projects
 
 - **[MY PORTFOLIO WEBSITE](https://my-portfolio-altamash.netlify.app/):** A personal portfolio website to showcase my projects, skills, and experience. Built with a focus on professional and aesthetically pleasing design, it uses a clean and modern UI to effectively present my work.
-[![Screenshot of My Portfolio](https://i.postimg.cc/CxPqZKvY/Screenshot-2024-07-27-185154.png)](https://i.postimg.cc/CxPqZKvY/Screenshot-2024-07-27-185154.png)
+[![Screenshot-2024-07-27-185154.png](https://i.postimg.cc/rpNCKg2R/Screenshot-2024-07-27-185154.png)](https://i.postimg.cc/rpNCKg2R/Screenshot-2024-07-27-185154.png)
 
 
 
