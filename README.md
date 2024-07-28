@@ -32,12 +32,13 @@ I'm a dedicated full stack web developer with a passion for creating dynamic and
 ### 🚀 Projects
 
 - **[MY PORTFOLIO WEBSITE](https://my-portfolio-altamash.netlify.app/):** A personal portfolio website to showcase my projects, skills, and experience. Built with a focus on professional and aesthetically pleasing design, it uses a clean and modern UI to effectively present my work.
-[![Screenshot-2024-07-27-185154.png](https://i.postimg.cc/rpNCKg2R/Screenshot-2024-07-27-185154.png)](https://i.postimg.cc/rpNCKg2R/Screenshot-2024-07-27-185154.png)
+- [![My Portfolio Image](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/e2e907392b4c166bf46e1dddd280fba5d1e2d414/Screenshot%202024-07-27%20185154.png?raw=true)](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/e2e907392b4c166bf46e1dddd280fba5d1e2d414/Screenshot%202024-07-27%20185154.png?raw=true)
 
 
 
 - **[WALMART CLONE ](https://walmartclonedotcom.netlify.app/):** A clone of the Walmart website that replicates the user interface and functionality of the original site. This project demonstrates my skills in frontend development, including responsive design, product listings, and interactive shopping cart features.
- [![Walmart Clone](https://i.postimg.cc/8CQkyJzT/WALMART-HOME.png)](https://postimg.cc/gxsPj0h7)
+  - [![Walmart Image](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/WALMART-HOME.png?raw=true)](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/WALMART-HOME.png?raw=true)
+
 - 
 - **[Project 2](https://github.com/your-github-username/project-2):** Description of your project. 
 - **[Project 2](https://github.com/your-github-username/project-2):** Description of your project. 
