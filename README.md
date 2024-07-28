@@ -28,20 +28,37 @@ I'm a dedicated full stack web developer with a passion for creating dynamic and
 - LinkedIn: [Shaikh Altamash](https://www.linkedin.com/in/skaltamash/)
 - Twitter: [skltamash786](https://x.com/SkAltamash786)
 - Email: [skaltamash10.99@gmail.com](mailto:skaltamash10.99@gmail.com)
+--- 
+
+
+
 
 ### 🚀 Projects
 
 - **[MY PORTFOLIO WEBSITE](https://my-portfolio-altamash.netlify.app/):** A personal portfolio website to showcase my projects, skills, and experience. Built with a focus on professional and aesthetically pleasing design, it uses a clean and modern UI to effectively present my work.
-- [![My Portfolio Image](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/e2e907392b4c166bf46e1dddd280fba5d1e2d414/Screenshot%202024-07-27%20185154.png?raw=true)](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/e2e907392b4c166bf46e1dddd280fba5d1e2d414/Screenshot%202024-07-27%20185154.png?raw=true)
+[![My Portfolio Image](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/e2e907392b4c166bf46e1dddd280fba5d1e2d414/Screenshot%202024-07-27%20185154.png?raw=true)](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/e2e907392b4c166bf46e1dddd280fba5d1e2d414/Screenshot%202024-07-27%20185154.png?raw=true)
+
+
+---
+
 
 
 
 - **[WALMART CLONE ](https://walmartclonedotcom.netlify.app/):** A clone of the Walmart website that replicates the user interface and functionality of the original site. This project demonstrates my skills in frontend development, including responsive design, product listings, and interactive shopping cart features.
-  - [![Walmart Image](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/WALMART-HOME.png?raw=true)](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/WALMART-HOME.png?raw=true)
+ [![Walmart Image](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/WALMART-HOME.png?raw=true)](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/WALMART-HOME.png?raw=true)
 
-- 
-- **[Project 2](https://github.com/your-github-username/project-2):** Description of your project. 
-- **[Project 2](https://github.com/your-github-username/project-2):** Description of your project. 
+
+---
+
+
+**[BLUEFLY CLONE ](https://walmartclonedotcom.netlify.app/):** The Bluefly Clone project replicates the user interface and functionality of the Bluefly e-commerce website. This project showcases my skills in front-end development, including responsive design, interactive features, and seamless navigation. Built with HTML, CSS, Bootstrap, and JavaScript, the Bluefly Clone provides a user-friendly shopping experience and demonstrates my ability to create visually appealing and functional web applications.
+ [![Screenshot-2024-07-27-185154.png](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/bluefly-home.png?raw=true)](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/bluefly-home.png?raw=true)
+
+
+---
+
+
+**[Project 2](https://github.com/your-github-username/project-2):** Description of your project. 
 
 ### 🎯 Goals
 - Continuously learn and improve my skills.
