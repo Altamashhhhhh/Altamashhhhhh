@@ -30,14 +30,14 @@ I'm a dedicated full stack web developer with a passion for creating dynamic and
 - Email: [skaltamash10.99@gmail.com](mailto:skaltamash10.99@gmail.com)
 
 ### 🚀 Projects
-<a href="https://my-portfolio-altamash.netlify.app/" target="_blank">MY PORTFOLIO WEBSITE</a>: A personal portfolio website to showcase my projects, skills, and experience. Built with a focus on professional and aesthetically pleasing design, it uses a clean and modern UI to effectively present my work.
 
-- <a href="https://postimg.cc/JsXnvRVd" target="_blank">
-  <img src="https://i.postimg.cc/CxPqZKvY/Screenshot-2024-07-27-185154.png" alt="MY PORTFOLIO">
-</a>
+- **[MY PORTFOLIO WEBSITE](https://my-portfolio-altamash.netlify.app/):** A personal portfolio website to showcase my projects, skills, and experience. Built with a focus on professional and aesthetically pleasing design, it uses a clean and modern UI to effectively present my work.
+ [![MY PORTFOLIO](https://i.postimg.cc/CxPqZKvY/Screenshot-2024-07-27-185154.png)](https://postimg.cc/JsXnvRVd)
 
 
-- **[Project 2](https://github.com/your-github-username/project-2):** Description of your project.
+
+- **[WALMART CLONE ](https://walmartclonedotcom.netlify.app/):** A clone of the Walmart website that replicates the user interface and functionality of the original site. This project demonstrates my skills in frontend development, including responsive design, product listings, and interactive shopping cart features.
+ [![Walmart Clone](https://i.postimg.cc/8CQkyJzT/WALMART-HOME.png)](https://postimg.cc/gxsPj0h7)
 - 
 - **[Project 2](https://github.com/your-github-username/project-2):** Description of your project. 
 - **[Project 2](https://github.com/your-github-username/project-2):** Description of your project. 
