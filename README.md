@@ -64,7 +64,7 @@ I'm a dedicated full stack web developer with a passion for creating dynamic and
 ---
 
 
-**[Bluefly CLONE ](https://walmartclonedotcom.netlify.app/):** The Bluefly Clone project replicates the user interface and functionality of the Bluefly e-commerce website. This project showcases my skills in front-end development, including responsive design, interactive features, and seamless navigation. Built with HTML, CSS, Bootstrap, and JavaScript, the Bluefly Clone provides a user-friendly shopping experience and demonstrates my ability to create visually appealing and functional web applications.
+**[Bluefly CLONE ](https://cheery-frangollo-9feff4.netlify.app/):** The Bluefly Clone project replicates the user interface and functionality of the Bluefly e-commerce website. This project showcases my skills in front-end development, including responsive design, interactive features, and seamless navigation. Built with HTML, CSS, Bootstrap, and JavaScript, the Bluefly Clone provides a user-friendly shopping experience and demonstrates my ability to create visually appealing and functional web applications.
 
  [![Screenshot-2024-07-27-185154.png](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/bluefly-home.png?raw=true)](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/bluefly-home.png?raw=true)
 
