@@ -30,7 +30,9 @@ I'm a dedicated full stack web developer with a passion for creating dynamic and
 - Email: [skaltamash10.99@gmail.com](mailto:skaltamash10.99@gmail.com)
 
 ### 🚀 Projects
-- **[Project 1](https://github.com/your-github-username/project-1):** Description of your project.
+- **[MY PORTFOLIO](https://github.com/your-github-username/project-1):** Description of your project.
+- [![myportfolio-home.png](https://i.postimg.cc/VkmX2Thr/myportfolio-home.png)](https://postimg.cc/2V9qZHrr)
+- 
 - **[Project 2](https://github.com/your-github-username/project-2):** Description of your project.
 
 ### 🎯 Goals
