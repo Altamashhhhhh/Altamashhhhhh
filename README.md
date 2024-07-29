@@ -72,7 +72,7 @@ I'm a dedicated full stack web developer with a passion for creating dynamic and
 ---
 
 
-**[PharmEasy CLONE](https://pharmeasyclonedotcom.netlify.app/):** The PharmEasy Clone project is a front-end replica of the PharmEasy e-commerce website, created using only HTML and CSS. This project highlights my ability to develop visually appealing web pages, focusing on layout, styling, and user interface design. By recreating the PharmEasy website, I demonstrate my proficiency in HTML and CSS to build clean and structured web applications. 
+**[PharmEasy CLONE](https://pharmeasyclonedotcom.netlify.app/):** The PharmEasy Clone project is a front-end replica of the PharmEasy e-commerce website, created using only HTML, CSS and Javascript. This project highlights my ability to develop visually appealing web pages, focusing on layout, styling, and user interface design. By recreating the PharmEasy website, I demonstrate my proficiency in HTML, CSS and Javascript to build clean and structured web applications. 
  
  [![PharmEasy Image](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/pharmeasy-home.png?raw=true)](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/pharmeasy-home.png?raw=true)
 
