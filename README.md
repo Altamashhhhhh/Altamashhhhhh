@@ -5,7 +5,7 @@
  
 ---
 
-# Hi 👋 Shaikh Altamash
+# Hi 👋 I'm Shaikh Altamash
 
 ### 💻 I'm passionate about Full-Stack web development and exploring the realms of technology! 🚀
 
